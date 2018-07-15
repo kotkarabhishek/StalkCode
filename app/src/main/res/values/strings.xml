@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StalkCode</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="names">
+        <item>Implementation</item>
+        <item>String</item>
+        <item>Sorting</item>
+        <item>Searching</item>
+        <item>Graph Theory</item>
+        <item>Greedy</item>
+        <item>Dynamic Programming</item>
+        <item>Bit Manipulation</item>
+        <item>Recursion</item>
+        <item>Game Theory</item>
+        <item>NP Complete</item>
+
+    </string-array>
+    <string-array name="level">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Difficult</item>
+    </string-array>
+    <string-array name="status">
+        <item>Submitted</item>
+        <item>Partially Submitted</item>
+        <item>Not Submitted</item>
+    </string-array>
+
+
+</resources>
